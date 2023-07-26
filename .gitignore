@@ -1,0 +1,7 @@
+node_modules/
+imageSets/**
+videos/**
+.vscode/
+**/*.js
+**/*.js.map
+!build/build.js
